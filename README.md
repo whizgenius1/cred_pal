@@ -30,8 +30,8 @@ A code editor like VS Code or Android Studio.
 ## Installation
 
 1 **Clone the repository**
-- [Clone the Application](https://github.com/your-repo/ivorypay-mobile-wallet-app.git)
-- ``git clone https://github.com/your-repo/ivorypay-mobile-wallet-app.git``
+- [Clone the Application](https://github.com/whizgenius1/cred_pal.git)
+- ``https://github.com/whizgenius1/cred_pal.git``
 
 2 **Navigate to the project directory**
 - ``cd cred_pal``
